@@ -1,4 +1,3 @@
-```markdown
 # 🖥️ Mid OS
 
 > **A complete desktop OS — running entirely in your browser.** ✨
