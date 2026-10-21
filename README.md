@@ -199,7 +199,7 @@ Released under the MIT License — free to use, modify, and distribute.
 
 ⭐ If you like Mid OS, give it a star! ⭐
 
-Built with 💙 and a lot of position: fixed
+Built with 💙 by Midnight Skeleton (BT) in iran 🇮🇷 
 
 </div>
 ```
